@@ -1,0 +1,10 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Users\\W11\\.jdks\\temurin-17",
+      "default": true
+    }
+  ],
+  "java.jdt.ls.java.home": "C:\\Users\\W11\\.jdks\\temurin-17"
+}
