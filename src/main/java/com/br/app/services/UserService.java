@@ -52,12 +52,9 @@ public class UserService {
 
     @Transactional
     public void delete(Long id) {
-
+      
         User existUser = findById(id);
-
-        if(existUser == null) {
-            throw new RuntimeException("Usuário não encontrado: " + id);
-        }
         userRepository.delete(existUser);
+        
     }
 }

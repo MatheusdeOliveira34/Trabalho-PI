@@ -1,5 +1,8 @@
 C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\AppApplication.java
-C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\user\User.java
-C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\user\UserController.java
-C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\user\UserRepository.java
-C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\user\UserService.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\controllers\UserController.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\dto\UserRequestDTO.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\dto\UserResponseDTO.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\entities\User.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\model\UserMapper.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\repositories\UserRepository.java
+C:\Users\W11\OneDrive\Documentos\Trabalho-PI\src\main\java\com\br\app\services\UserService.java
